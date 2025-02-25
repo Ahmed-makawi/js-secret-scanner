@@ -1,0 +1,1 @@
+# js-secret-scanner.sh
