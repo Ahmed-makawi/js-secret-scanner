@@ -6,6 +6,10 @@ A simple yet powerful tool (that I found on the internet) to scan websites for e
 
 This tool scans websites for JavaScript files and searches for potential secrets, API keys, tokens, and other sensitive information that might be accidentally exposed. It can operate on a single URL or process multiple URLs from a file.
 
+
+![Untitled](https://github.com/user-attachments/assets/c7b2956b-77a8-4567-a9c9-a71ff944f66f)
+
+
 ## Features
 
 - Automatically discovers JavaScript files using LinkFinder
