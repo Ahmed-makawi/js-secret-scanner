@@ -1,6 +1,6 @@
 # js-secret-scanner.sh
 
-A simple yet powerful tool (that I found on the internet) to scan websites for exposed secrets in JavaScript files.
+A simple yet powerful tool to scan websites for exposed secrets in JavaScript files.
 
 ## Overview
 
